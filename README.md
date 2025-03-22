@@ -13,5 +13,5 @@ FlowChat is a Node.js application that integrates multiple free AI APIs to provi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/FlowChat.git
+   git clone https://github.com/nino78el/FlowChat.git
    cd FlowChat
