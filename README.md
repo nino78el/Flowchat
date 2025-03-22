@@ -1,19 +1,17 @@
-# 🎈 Blank app template
+# FlowChat
 
-A simple Streamlit app template for you to modify!
+FlowChat is a Node.js application that integrates multiple free AI APIs to provide chat, image generation, video generation, voiceover, and avatar creation functionalities. This project is built using Express and Axios, ensuring a modular and organized code structure.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+## Features
+- Chat with Wit.ai
+- Generate images using DeepAI
+- Create videos with RunwayML
+- Convert text to speech using Google Cloud Text-to-Speech
+- Generate avatars with DiceBear Avatars
 
-### How to run it on your own machine
+## Setup Instructions
 
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/FlowChat.git
+   cd FlowChat
